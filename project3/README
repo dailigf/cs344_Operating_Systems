@@ -1,0 +1,17 @@
+# smallsh
+
+Program 3 assignment
+
+## Compilation
+
+gcc -o smallsh smallsh.c
+
+## Usage
+
+./smallsh
+
+## Miscellaneous
+
+'pkill sleep' in p3gradingscript needs to be run with elevated privileges, otherwise it will return unexepected results.
+
+Recommen running 'kill -SIGTERM <background pid>' instead
