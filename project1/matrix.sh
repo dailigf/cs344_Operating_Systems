@@ -1,4 +1,4 @@
-ls#!/bin/bash
+#!/bin/bash
 
 # Program 1 - CS 344
 # Francis C. Dailig
